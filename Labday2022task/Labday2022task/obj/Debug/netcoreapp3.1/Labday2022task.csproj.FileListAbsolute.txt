@@ -1,0 +1,14 @@
+C:\Users\Home\Desktop\LabDays\Labday2022task\Labday2022task\bin\Debug\netcoreapp3.1\Labday2022task.exe
+C:\Users\Home\Desktop\LabDays\Labday2022task\Labday2022task\bin\Debug\netcoreapp3.1\Labday2022task.deps.json
+C:\Users\Home\Desktop\LabDays\Labday2022task\Labday2022task\bin\Debug\netcoreapp3.1\Labday2022task.runtimeconfig.json
+C:\Users\Home\Desktop\LabDays\Labday2022task\Labday2022task\bin\Debug\netcoreapp3.1\Labday2022task.runtimeconfig.dev.json
+C:\Users\Home\Desktop\LabDays\Labday2022task\Labday2022task\bin\Debug\netcoreapp3.1\Labday2022task.dll
+C:\Users\Home\Desktop\LabDays\Labday2022task\Labday2022task\bin\Debug\netcoreapp3.1\Labday2022task.pdb
+C:\Users\Home\Desktop\LabDays\Labday2022task\Labday2022task\obj\Debug\netcoreapp3.1\Labday2022task.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\LabDays\Labday2022task\Labday2022task\obj\Debug\netcoreapp3.1\Labday2022task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Desktop\LabDays\Labday2022task\Labday2022task\obj\Debug\netcoreapp3.1\Labday2022task.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\LabDays\Labday2022task\Labday2022task\obj\Debug\netcoreapp3.1\Labday2022task.AssemblyInfo.cs
+C:\Users\Home\Desktop\LabDays\Labday2022task\Labday2022task\obj\Debug\netcoreapp3.1\Labday2022task.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\LabDays\Labday2022task\Labday2022task\obj\Debug\netcoreapp3.1\Labday2022task.dll
+C:\Users\Home\Desktop\LabDays\Labday2022task\Labday2022task\obj\Debug\netcoreapp3.1\Labday2022task.pdb
+C:\Users\Home\Desktop\LabDays\Labday2022task\Labday2022task\obj\Debug\netcoreapp3.1\Labday2022task.genruntimeconfig.cache
